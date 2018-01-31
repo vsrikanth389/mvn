@@ -41,7 +41,7 @@
             <url>http://35.229.116.42:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
-    <build>u
+    <build>
     	<finalName>myproj</finalName>
         <pluginManagement>
             <plugins>
